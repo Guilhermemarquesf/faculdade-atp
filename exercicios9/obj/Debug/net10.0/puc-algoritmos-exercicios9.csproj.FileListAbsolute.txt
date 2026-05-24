@@ -1,0 +1,14 @@
+C:\Projetos\ATP\puc-algoritmos-exercicios9\bin\Debug\net10.0\puc-algoritmos-exercicios9.exe
+C:\Projetos\ATP\puc-algoritmos-exercicios9\bin\Debug\net10.0\puc-algoritmos-exercicios9.deps.json
+C:\Projetos\ATP\puc-algoritmos-exercicios9\bin\Debug\net10.0\puc-algoritmos-exercicios9.runtimeconfig.json
+C:\Projetos\ATP\puc-algoritmos-exercicios9\bin\Debug\net10.0\puc-algoritmos-exercicios9.dll
+C:\Projetos\ATP\puc-algoritmos-exercicios9\bin\Debug\net10.0\puc-algoritmos-exercicios9.pdb
+C:\Projetos\ATP\puc-algoritmos-exercicios9\obj\Debug\net10.0\puc-algoritmos-exercicios9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\puc-algoritmos-exercicios9\obj\Debug\net10.0\puc-algoritmos-exercicios9.AssemblyInfoInputs.cache
+C:\Projetos\ATP\puc-algoritmos-exercicios9\obj\Debug\net10.0\puc-algoritmos-exercicios9.AssemblyInfo.cs
+C:\Projetos\ATP\puc-algoritmos-exercicios9\obj\Debug\net10.0\puc-algoritmos-exercicios9.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\puc-algoritmos-exercicios9\obj\Debug\net10.0\puc-algoritmos-exercicios9.dll
+C:\Projetos\ATP\puc-algoritmos-exercicios9\obj\Debug\net10.0\refint\puc-algoritmos-exercicios9.dll
+C:\Projetos\ATP\puc-algoritmos-exercicios9\obj\Debug\net10.0\puc-algoritmos-exercicios9.pdb
+C:\Projetos\ATP\puc-algoritmos-exercicios9\obj\Debug\net10.0\puc-algoritmos-exercicios9.genruntimeconfig.cache
+C:\Projetos\ATP\puc-algoritmos-exercicios9\obj\Debug\net10.0\ref\puc-algoritmos-exercicios9.dll

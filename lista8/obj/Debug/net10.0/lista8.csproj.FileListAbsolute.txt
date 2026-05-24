@@ -1,0 +1,14 @@
+C:\Projetos\ATP\lista8\bin\Debug\net10.0\lista8.exe
+C:\Projetos\ATP\lista8\bin\Debug\net10.0\lista8.deps.json
+C:\Projetos\ATP\lista8\bin\Debug\net10.0\lista8.runtimeconfig.json
+C:\Projetos\ATP\lista8\bin\Debug\net10.0\lista8.dll
+C:\Projetos\ATP\lista8\bin\Debug\net10.0\lista8.pdb
+C:\Projetos\ATP\lista8\obj\Debug\net10.0\lista8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\lista8\obj\Debug\net10.0\lista8.AssemblyInfoInputs.cache
+C:\Projetos\ATP\lista8\obj\Debug\net10.0\lista8.AssemblyInfo.cs
+C:\Projetos\ATP\lista8\obj\Debug\net10.0\lista8.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\lista8\obj\Debug\net10.0\lista8.dll
+C:\Projetos\ATP\lista8\obj\Debug\net10.0\refint\lista8.dll
+C:\Projetos\ATP\lista8\obj\Debug\net10.0\lista8.pdb
+C:\Projetos\ATP\lista8\obj\Debug\net10.0\lista8.genruntimeconfig.cache
+C:\Projetos\ATP\lista8\obj\Debug\net10.0\ref\lista8.dll

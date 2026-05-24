@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "puc-algoritmos-prova2/1.0.0": {
+        "runtime": {
+          "puc-algoritmos-prova2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "puc-algoritmos-prova2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

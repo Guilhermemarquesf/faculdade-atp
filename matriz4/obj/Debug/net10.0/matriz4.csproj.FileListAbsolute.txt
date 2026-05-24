@@ -1,0 +1,14 @@
+C:\Projetos\ATP\matriz4\bin\Debug\net10.0\matriz4.exe
+C:\Projetos\ATP\matriz4\bin\Debug\net10.0\matriz4.deps.json
+C:\Projetos\ATP\matriz4\bin\Debug\net10.0\matriz4.runtimeconfig.json
+C:\Projetos\ATP\matriz4\bin\Debug\net10.0\matriz4.dll
+C:\Projetos\ATP\matriz4\bin\Debug\net10.0\matriz4.pdb
+C:\Projetos\ATP\matriz4\obj\Debug\net10.0\matriz4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\matriz4\obj\Debug\net10.0\matriz4.AssemblyInfoInputs.cache
+C:\Projetos\ATP\matriz4\obj\Debug\net10.0\matriz4.AssemblyInfo.cs
+C:\Projetos\ATP\matriz4\obj\Debug\net10.0\matriz4.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\matriz4\obj\Debug\net10.0\matriz4.dll
+C:\Projetos\ATP\matriz4\obj\Debug\net10.0\refint\matriz4.dll
+C:\Projetos\ATP\matriz4\obj\Debug\net10.0\matriz4.pdb
+C:\Projetos\ATP\matriz4\obj\Debug\net10.0\matriz4.genruntimeconfig.cache
+C:\Projetos\ATP\matriz4\obj\Debug\net10.0\ref\matriz4.dll

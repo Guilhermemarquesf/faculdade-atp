@@ -1,0 +1,14 @@
+C:\Projetos\ATP\lista18\bin\Debug\net10.0\lista18.exe
+C:\Projetos\ATP\lista18\bin\Debug\net10.0\lista18.deps.json
+C:\Projetos\ATP\lista18\bin\Debug\net10.0\lista18.runtimeconfig.json
+C:\Projetos\ATP\lista18\bin\Debug\net10.0\lista18.dll
+C:\Projetos\ATP\lista18\bin\Debug\net10.0\lista18.pdb
+C:\Projetos\ATP\lista18\obj\Debug\net10.0\lista18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\lista18\obj\Debug\net10.0\lista18.AssemblyInfoInputs.cache
+C:\Projetos\ATP\lista18\obj\Debug\net10.0\lista18.AssemblyInfo.cs
+C:\Projetos\ATP\lista18\obj\Debug\net10.0\lista18.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\lista18\obj\Debug\net10.0\lista18.dll
+C:\Projetos\ATP\lista18\obj\Debug\net10.0\refint\lista18.dll
+C:\Projetos\ATP\lista18\obj\Debug\net10.0\lista18.pdb
+C:\Projetos\ATP\lista18\obj\Debug\net10.0\lista18.genruntimeconfig.cache
+C:\Projetos\ATP\lista18\obj\Debug\net10.0\ref\lista18.dll

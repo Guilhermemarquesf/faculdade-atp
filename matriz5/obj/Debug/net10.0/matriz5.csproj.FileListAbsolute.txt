@@ -1,0 +1,14 @@
+C:\Projetos\ATP\matriz5\bin\Debug\net10.0\matriz5.exe
+C:\Projetos\ATP\matriz5\bin\Debug\net10.0\matriz5.deps.json
+C:\Projetos\ATP\matriz5\bin\Debug\net10.0\matriz5.runtimeconfig.json
+C:\Projetos\ATP\matriz5\bin\Debug\net10.0\matriz5.dll
+C:\Projetos\ATP\matriz5\bin\Debug\net10.0\matriz5.pdb
+C:\Projetos\ATP\matriz5\obj\Debug\net10.0\matriz5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\matriz5\obj\Debug\net10.0\matriz5.AssemblyInfoInputs.cache
+C:\Projetos\ATP\matriz5\obj\Debug\net10.0\matriz5.AssemblyInfo.cs
+C:\Projetos\ATP\matriz5\obj\Debug\net10.0\matriz5.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\matriz5\obj\Debug\net10.0\matriz5.dll
+C:\Projetos\ATP\matriz5\obj\Debug\net10.0\refint\matriz5.dll
+C:\Projetos\ATP\matriz5\obj\Debug\net10.0\matriz5.pdb
+C:\Projetos\ATP\matriz5\obj\Debug\net10.0\matriz5.genruntimeconfig.cache
+C:\Projetos\ATP\matriz5\obj\Debug\net10.0\ref\matriz5.dll

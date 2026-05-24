@@ -1,0 +1,14 @@
+C:\Projetos\ATP\puc-algoritmos-prova2\bin\Debug\net10.0\puc-algoritmos-prova2.exe
+C:\Projetos\ATP\puc-algoritmos-prova2\bin\Debug\net10.0\puc-algoritmos-prova2.deps.json
+C:\Projetos\ATP\puc-algoritmos-prova2\bin\Debug\net10.0\puc-algoritmos-prova2.runtimeconfig.json
+C:\Projetos\ATP\puc-algoritmos-prova2\bin\Debug\net10.0\puc-algoritmos-prova2.dll
+C:\Projetos\ATP\puc-algoritmos-prova2\bin\Debug\net10.0\puc-algoritmos-prova2.pdb
+C:\Projetos\ATP\puc-algoritmos-prova2\obj\Debug\net10.0\puc-algoritmos-prova2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\puc-algoritmos-prova2\obj\Debug\net10.0\puc-algoritmos-prova2.AssemblyInfoInputs.cache
+C:\Projetos\ATP\puc-algoritmos-prova2\obj\Debug\net10.0\puc-algoritmos-prova2.AssemblyInfo.cs
+C:\Projetos\ATP\puc-algoritmos-prova2\obj\Debug\net10.0\puc-algoritmos-prova2.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\puc-algoritmos-prova2\obj\Debug\net10.0\puc-algoritmos-prova2.dll
+C:\Projetos\ATP\puc-algoritmos-prova2\obj\Debug\net10.0\refint\puc-algoritmos-prova2.dll
+C:\Projetos\ATP\puc-algoritmos-prova2\obj\Debug\net10.0\puc-algoritmos-prova2.pdb
+C:\Projetos\ATP\puc-algoritmos-prova2\obj\Debug\net10.0\puc-algoritmos-prova2.genruntimeconfig.cache
+C:\Projetos\ATP\puc-algoritmos-prova2\obj\Debug\net10.0\ref\puc-algoritmos-prova2.dll

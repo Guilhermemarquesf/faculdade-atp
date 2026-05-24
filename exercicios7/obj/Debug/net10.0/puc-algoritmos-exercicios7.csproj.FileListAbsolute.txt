@@ -1,0 +1,14 @@
+C:\Projetos\ATP\puc-algoritmos-exercicios7\bin\Debug\net10.0\puc-algoritmos-exercicios7.exe
+C:\Projetos\ATP\puc-algoritmos-exercicios7\bin\Debug\net10.0\puc-algoritmos-exercicios7.deps.json
+C:\Projetos\ATP\puc-algoritmos-exercicios7\bin\Debug\net10.0\puc-algoritmos-exercicios7.runtimeconfig.json
+C:\Projetos\ATP\puc-algoritmos-exercicios7\bin\Debug\net10.0\puc-algoritmos-exercicios7.dll
+C:\Projetos\ATP\puc-algoritmos-exercicios7\bin\Debug\net10.0\puc-algoritmos-exercicios7.pdb
+C:\Projetos\ATP\puc-algoritmos-exercicios7\obj\Debug\net10.0\puc-algoritmos-exercicios7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\puc-algoritmos-exercicios7\obj\Debug\net10.0\puc-algoritmos-exercicios7.AssemblyInfoInputs.cache
+C:\Projetos\ATP\puc-algoritmos-exercicios7\obj\Debug\net10.0\puc-algoritmos-exercicios7.AssemblyInfo.cs
+C:\Projetos\ATP\puc-algoritmos-exercicios7\obj\Debug\net10.0\puc-algoritmos-exercicios7.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\puc-algoritmos-exercicios7\obj\Debug\net10.0\puc-algoritmos-exercicios7.dll
+C:\Projetos\ATP\puc-algoritmos-exercicios7\obj\Debug\net10.0\refint\puc-algoritmos-exercicios7.dll
+C:\Projetos\ATP\puc-algoritmos-exercicios7\obj\Debug\net10.0\puc-algoritmos-exercicios7.pdb
+C:\Projetos\ATP\puc-algoritmos-exercicios7\obj\Debug\net10.0\puc-algoritmos-exercicios7.genruntimeconfig.cache
+C:\Projetos\ATP\puc-algoritmos-exercicios7\obj\Debug\net10.0\ref\puc-algoritmos-exercicios7.dll

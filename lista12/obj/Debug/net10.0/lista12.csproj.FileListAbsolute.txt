@@ -1,0 +1,14 @@
+C:\Projetos\ATP\lista12\bin\Debug\net10.0\lista12.exe
+C:\Projetos\ATP\lista12\bin\Debug\net10.0\lista12.deps.json
+C:\Projetos\ATP\lista12\bin\Debug\net10.0\lista12.runtimeconfig.json
+C:\Projetos\ATP\lista12\bin\Debug\net10.0\lista12.dll
+C:\Projetos\ATP\lista12\bin\Debug\net10.0\lista12.pdb
+C:\Projetos\ATP\lista12\obj\Debug\net10.0\lista12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\lista12\obj\Debug\net10.0\lista12.AssemblyInfoInputs.cache
+C:\Projetos\ATP\lista12\obj\Debug\net10.0\lista12.AssemblyInfo.cs
+C:\Projetos\ATP\lista12\obj\Debug\net10.0\lista12.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\lista12\obj\Debug\net10.0\lista12.dll
+C:\Projetos\ATP\lista12\obj\Debug\net10.0\refint\lista12.dll
+C:\Projetos\ATP\lista12\obj\Debug\net10.0\lista12.pdb
+C:\Projetos\ATP\lista12\obj\Debug\net10.0\lista12.genruntimeconfig.cache
+C:\Projetos\ATP\lista12\obj\Debug\net10.0\ref\lista12.dll

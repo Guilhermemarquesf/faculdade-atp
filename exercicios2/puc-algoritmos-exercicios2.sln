@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puc-algoritmos-exercicios2", "puc-algoritmos-exercicios2.csproj", "{0B6A804A-C706-BB85-E689-36E9FB0052FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6A804A-C706-BB85-E689-36E9FB0052FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6A804A-C706-BB85-E689-36E9FB0052FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6A804A-C706-BB85-E689-36E9FB0052FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6A804A-C706-BB85-E689-36E9FB0052FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB881D0-DBCD-421C-9D2C-641701ECFF74}
+	EndGlobalSection
+EndGlobal

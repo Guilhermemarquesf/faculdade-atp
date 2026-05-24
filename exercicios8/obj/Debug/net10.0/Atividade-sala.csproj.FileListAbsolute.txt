@@ -1,0 +1,14 @@
+C:\Projetos\ATP\Atividade-sala\bin\Debug\net10.0\Atividade-sala.exe
+C:\Projetos\ATP\Atividade-sala\bin\Debug\net10.0\Atividade-sala.deps.json
+C:\Projetos\ATP\Atividade-sala\bin\Debug\net10.0\Atividade-sala.runtimeconfig.json
+C:\Projetos\ATP\Atividade-sala\bin\Debug\net10.0\Atividade-sala.dll
+C:\Projetos\ATP\Atividade-sala\bin\Debug\net10.0\Atividade-sala.pdb
+C:\Projetos\ATP\Atividade-sala\obj\Debug\net10.0\Atividade-sala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\Atividade-sala\obj\Debug\net10.0\Atividade-sala.AssemblyInfoInputs.cache
+C:\Projetos\ATP\Atividade-sala\obj\Debug\net10.0\Atividade-sala.AssemblyInfo.cs
+C:\Projetos\ATP\Atividade-sala\obj\Debug\net10.0\Atividade-sala.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\Atividade-sala\obj\Debug\net10.0\Atividade-sala.dll
+C:\Projetos\ATP\Atividade-sala\obj\Debug\net10.0\refint\Atividade-sala.dll
+C:\Projetos\ATP\Atividade-sala\obj\Debug\net10.0\Atividade-sala.pdb
+C:\Projetos\ATP\Atividade-sala\obj\Debug\net10.0\Atividade-sala.genruntimeconfig.cache
+C:\Projetos\ATP\Atividade-sala\obj\Debug\net10.0\ref\Atividade-sala.dll

@@ -1,0 +1,14 @@
+C:\Projetos\ATP\lista14\bin\Debug\net10.0\lista14.exe
+C:\Projetos\ATP\lista14\bin\Debug\net10.0\lista14.deps.json
+C:\Projetos\ATP\lista14\bin\Debug\net10.0\lista14.runtimeconfig.json
+C:\Projetos\ATP\lista14\bin\Debug\net10.0\lista14.dll
+C:\Projetos\ATP\lista14\bin\Debug\net10.0\lista14.pdb
+C:\Projetos\ATP\lista14\obj\Debug\net10.0\lista14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\lista14\obj\Debug\net10.0\lista14.AssemblyInfoInputs.cache
+C:\Projetos\ATP\lista14\obj\Debug\net10.0\lista14.AssemblyInfo.cs
+C:\Projetos\ATP\lista14\obj\Debug\net10.0\lista14.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\lista14\obj\Debug\net10.0\lista14.dll
+C:\Projetos\ATP\lista14\obj\Debug\net10.0\refint\lista14.dll
+C:\Projetos\ATP\lista14\obj\Debug\net10.0\lista14.pdb
+C:\Projetos\ATP\lista14\obj\Debug\net10.0\lista14.genruntimeconfig.cache
+C:\Projetos\ATP\lista14\obj\Debug\net10.0\ref\lista14.dll
