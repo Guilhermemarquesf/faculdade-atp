@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ATP\\matriz6\\matriz6.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\matriz6\\matriz6.csproj",
       "projectName": "matriz6",
-      "projectPath": "C:\\Projetos\\ATP\\matriz6\\matriz6.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\matriz6\\matriz6.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ATP\\matriz6\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\matriz6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

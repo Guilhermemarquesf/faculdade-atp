@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ATP\\Atividade-sala\\Atividade-sala.csproj": {}
+    "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\exercicios8\\Atividade-sala.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ATP\\Atividade-sala\\Atividade-sala.csproj": {
+    "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\exercicios8\\Atividade-sala.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ATP\\Atividade-sala\\Atividade-sala.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\exercicios8\\Atividade-sala.csproj",
         "projectName": "Atividade-sala",
-        "projectPath": "C:\\Projetos\\ATP\\Atividade-sala\\Atividade-sala.csproj",
+        "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\exercicios8\\Atividade-sala.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ATP\\Atividade-sala\\obj\\",
+        "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\exercicios8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

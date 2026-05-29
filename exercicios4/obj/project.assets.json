@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ATP\\tarabalho3\\tarabalho3.csproj",
-      "projectName": "tarabalho3",
-      "projectPath": "C:\\Projetos\\ATP\\tarabalho3\\tarabalho3.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\exercicios4\\puc-algoritmos-exercicios4.csproj",
+      "projectName": "puc-algoritmos-exercicios4",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\exercicios4\\puc-algoritmos-exercicios4.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ATP\\tarabalho3\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\exercicios4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

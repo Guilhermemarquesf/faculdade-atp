@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ATP\\vetor6\\vetor6.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\vetor6\\vetor6.csproj",
       "projectName": "vetor6",
-      "projectPath": "C:\\Projetos\\ATP\\vetor6\\vetor6.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\vetor6\\vetor6.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ATP\\vetor6\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\vetor6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

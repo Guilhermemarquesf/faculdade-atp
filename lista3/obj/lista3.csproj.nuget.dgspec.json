@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ATP\\lista3\\lista3.csproj": {}
+    "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\lista3\\lista3.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ATP\\lista3\\lista3.csproj": {
+    "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\lista3\\lista3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ATP\\lista3\\lista3.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\lista3\\lista3.csproj",
         "projectName": "lista3",
-        "projectPath": "C:\\Projetos\\ATP\\lista3\\lista3.csproj",
+        "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\lista3\\lista3.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ATP\\lista3\\obj\\",
+        "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\lista3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ATP\\puc-algoritmos-prova2\\puc-algoritmos-prova2.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\prova2\\puc-algoritmos-prova2.csproj",
       "projectName": "puc-algoritmos-prova2",
-      "projectPath": "C:\\Projetos\\ATP\\puc-algoritmos-prova2\\puc-algoritmos-prova2.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\prova2\\puc-algoritmos-prova2.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ATP\\puc-algoritmos-prova2\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\prova2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

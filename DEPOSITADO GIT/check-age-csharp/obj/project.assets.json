@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ATP\\DEPOSITADO GIT\\check-age-csharp\\Projeto.ATP.Faculdade.7.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\DEPOSITADO GIT\\check-age-csharp\\Projeto.ATP.Faculdade.7.csproj",
       "projectName": "Projeto.ATP.Faculdade.7",
-      "projectPath": "C:\\Projetos\\ATP\\DEPOSITADO GIT\\check-age-csharp\\Projeto.ATP.Faculdade.7.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\DEPOSITADO GIT\\check-age-csharp\\Projeto.ATP.Faculdade.7.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ATP\\DEPOSITADO GIT\\check-age-csharp\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\faculdade.atp\\DEPOSITADO GIT\\check-age-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"

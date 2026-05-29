@@ -6,79 +6,79 @@ namespace trabalho2
     {
         static void Main()
         {
-           int n;
-            // validar número de eleitores
-           do
-            {
-                Console.WriteLine("Digite um número: ");
-                n = int.Parse(Console.ReadLine()!);
-            }while (n < 10);
+            int n;
 
-            while (true) // repetir eleição em caso de empate
+            // Validar número de eleitores
+            do
             {
-                // ler numero de candidatos
-                Console.WriteLine("Digite o numero do candidato Teobaldo: ");
+                Console.WriteLine("Digite o número de eleitores (mínimo 10): ");
+                n = int.Parse(Console.ReadLine()!);
+
+            } while (n < 10);
+
+            while (true) // Repete em caso de empate
+            {
+                // Ler número dos candidatos
+                Console.WriteLine("Digite o número do candidato Teobaldo: ");
                 int teobaldo = int.Parse(Console.ReadLine()!);
 
-                Console.WriteLine("Digite o numero do candidato Astrogildo: ");
-                int Astrogildo = int.Parse(Console.ReadLine()!);
+                Console.WriteLine("Digite o número do candidato Astrogildo: ");
+                int astrogildo = int.Parse(Console.ReadLine()!);
 
-                // INICIALIZAÇÃO DOS CONTADORES
-
+                // Contadores
                 int votosTeobaldo = 0;
                 int votosAstrogildo = 0;
                 int votosBrancos = 0;
                 int votosNulos = 0;
 
-                // COLETA DOS VOTOS
-
+                // Coleta dos votos
                 for (int i = 1; i <= n; i++)
                 {
-                    //ler votos 
-                    Console.WriteLine($"Voto do eleitor{i}: ");
-                    int votos = int.Parse(Console.ReadLine()!);
+                    Console.WriteLine($"Voto do eleitor {i}: ");
+                    int voto = int.Parse(Console.ReadLine()!);
 
-                    if (votos == 0)
-                    {   // Voto em branco
-                       votosBrancos++;
+                    if (voto == 0)
+                    {
+                        votosBrancos++;
                     }
-                    else if (votos == votosTeobaldo)
+                    else if (voto == teobaldo)
                     {
                         votosTeobaldo++;
                     }
-                    else if (votos == votosAstrogildo)
+                    else if (voto == astrogildo)
                     {
                         votosAstrogildo++;
                     }
                     else
-                    {   // Qualquer outro valor é voto nulo
+                    {
                         votosNulos++;
                     }
+                }
 
-                    //mostrar resultados
-                    Console.WriteLine("\n resultados da eleição: ");
-                    Console.WriteLine($"Teobaldo {teobaldo} votos: ");
-                    Console.WriteLine($"Astrogildo {Astrogildo} votos: ");
-                    Console.WriteLine($"Brancos {votosBrancos}");
-                    Console.WriteLine($"Nulos {votosNulos}");
+                // Mostrar resultados
+                Console.WriteLine("\nRESULTADO DA ELEIÇÃO");
+                Console.WriteLine($"Teobaldo: {votosTeobaldo} votos");
+                Console.WriteLine($"Astrogildo: {votosAstrogildo} votos");
+                Console.WriteLine($"Brancos: {votosBrancos}");
+                Console.WriteLine($"Nulos: {votosNulos}");
 
-                    //verificar empate
-                    if ( votosAstrogildo == votosTeobaldo)
+                // Verificar empate
+                if (votosTeobaldo == votosAstrogildo)
+                {
+                    Console.WriteLine("\nEmpate! Nova eleição será realizada.\n");
+                }
+                else
+                {
+                    if (votosTeobaldo > votosAstrogildo)
                     {
-                        Console.WriteLine("\n Empate! Nova eleição será realizada");
+                        Console.WriteLine("\nTeobaldo venceu!");
                     }
                     else
                     {
-                        if (votosAstrogildo > votosTeobaldo)
-                        {
-                            Console.WriteLine("\n Teobaldo venceu! ");
-                        }
-                        else 
-                        {
-                            Console.WriteLine("\n Astrogildo venceu! ");
-                        }
-                        break; // sai do loop se nao tiver empate
+                        Console.WriteLine("\nAstrogildo venceu!");
                     }
+
+                    break; // Sai do loop se não houver empate
                 }
             }
         }
