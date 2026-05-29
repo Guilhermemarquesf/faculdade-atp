@@ -15,13 +15,13 @@ class Program
             Console.WriteLine($"\nAluno {i + 1}");
 
             Console.Write("Nome: ");
-            nomes[i] = Console.ReadLine();
+            nomes[i] = Console.ReadLine()!;
 
             Console.Write("Nota: ");
-            notas[i] = double.Parse(Console.ReadLine());
+        notas[i] = double.Parse(Console.ReadLine()!);
 
             Console.Write("Frequência: ");
-            frequencias[i] = double.Parse(Console.ReadLine());
+            frequencias[i] = double.Parse(Console.ReadLine()!);
 
             // Verifica situação
             if (notas[i] >= 60 && frequencias[i] >= 75)
