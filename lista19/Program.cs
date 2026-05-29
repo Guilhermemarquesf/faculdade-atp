@@ -6,10 +6,10 @@ namespace lista19
     {
         static void Main()
         {
-           
+           int n;
 
            Console.WriteLine("Digite um numero: ");
-           int n = int.Parse(Console.ReadLine()!);
+           n = int.Parse(Console.ReadLine()!);
 
            for (int i = 1; i >= n; i++)
             {
@@ -17,7 +17,7 @@ namespace lista19
             }
 
             Console.WriteLine("Digite um numero: ");
-           int n = int.Parse(Console.ReadLine()!);
+            n = int.Parse(Console.ReadLine()!);
 
            for (int i = 1; i >= n; i++)
             {
