@@ -1,0 +1,14 @@
+C:\Projetos\ATP\matriz10\bin\Debug\net10.0\matriz10.exe
+C:\Projetos\ATP\matriz10\bin\Debug\net10.0\matriz10.deps.json
+C:\Projetos\ATP\matriz10\bin\Debug\net10.0\matriz10.runtimeconfig.json
+C:\Projetos\ATP\matriz10\bin\Debug\net10.0\matriz10.dll
+C:\Projetos\ATP\matriz10\bin\Debug\net10.0\matriz10.pdb
+C:\Projetos\ATP\matriz10\obj\Debug\net10.0\matriz10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\matriz10\obj\Debug\net10.0\matriz10.AssemblyInfoInputs.cache
+C:\Projetos\ATP\matriz10\obj\Debug\net10.0\matriz10.AssemblyInfo.cs
+C:\Projetos\ATP\matriz10\obj\Debug\net10.0\matriz10.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\matriz10\obj\Debug\net10.0\matriz10.dll
+C:\Projetos\ATP\matriz10\obj\Debug\net10.0\refint\matriz10.dll
+C:\Projetos\ATP\matriz10\obj\Debug\net10.0\matriz10.pdb
+C:\Projetos\ATP\matriz10\obj\Debug\net10.0\matriz10.genruntimeconfig.cache
+C:\Projetos\ATP\matriz10\obj\Debug\net10.0\ref\matriz10.dll
