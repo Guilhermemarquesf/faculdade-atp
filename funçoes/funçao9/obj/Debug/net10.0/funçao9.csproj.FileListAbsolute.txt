@@ -1,0 +1,14 @@
+C:\Projetos\ATP\função\funçao9\bin\Debug\net10.0\funçao9.exe
+C:\Projetos\ATP\função\funçao9\bin\Debug\net10.0\funçao9.deps.json
+C:\Projetos\ATP\função\funçao9\bin\Debug\net10.0\funçao9.runtimeconfig.json
+C:\Projetos\ATP\função\funçao9\bin\Debug\net10.0\funçao9.dll
+C:\Projetos\ATP\função\funçao9\bin\Debug\net10.0\funçao9.pdb
+C:\Projetos\ATP\função\funçao9\obj\Debug\net10.0\funçao9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\função\funçao9\obj\Debug\net10.0\funçao9.AssemblyInfoInputs.cache
+C:\Projetos\ATP\função\funçao9\obj\Debug\net10.0\funçao9.AssemblyInfo.cs
+C:\Projetos\ATP\função\funçao9\obj\Debug\net10.0\funçao9.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\função\funçao9\obj\Debug\net10.0\funçao9.dll
+C:\Projetos\ATP\função\funçao9\obj\Debug\net10.0\refint\funçao9.dll
+C:\Projetos\ATP\função\funçao9\obj\Debug\net10.0\funçao9.pdb
+C:\Projetos\ATP\função\funçao9\obj\Debug\net10.0\funçao9.genruntimeconfig.cache
+C:\Projetos\ATP\função\funçao9\obj\Debug\net10.0\ref\funçao9.dll

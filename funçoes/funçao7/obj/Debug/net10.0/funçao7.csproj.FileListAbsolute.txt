@@ -1,0 +1,14 @@
+C:\Projetos\ATP\função\funçao7\obj\Debug\net10.0\funçao7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\função\funçao7\obj\Debug\net10.0\funçao7.AssemblyInfoInputs.cache
+C:\Projetos\ATP\função\funçao7\obj\Debug\net10.0\funçao7.AssemblyInfo.cs
+C:\Projetos\ATP\função\funçao7\obj\Debug\net10.0\funçao7.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\função\funçao7\bin\Debug\net10.0\funçao7.exe
+C:\Projetos\ATP\função\funçao7\bin\Debug\net10.0\funçao7.deps.json
+C:\Projetos\ATP\função\funçao7\bin\Debug\net10.0\funçao7.runtimeconfig.json
+C:\Projetos\ATP\função\funçao7\bin\Debug\net10.0\funçao7.dll
+C:\Projetos\ATP\função\funçao7\bin\Debug\net10.0\funçao7.pdb
+C:\Projetos\ATP\função\funçao7\obj\Debug\net10.0\funçao7.dll
+C:\Projetos\ATP\função\funçao7\obj\Debug\net10.0\refint\funçao7.dll
+C:\Projetos\ATP\função\funçao7\obj\Debug\net10.0\funçao7.pdb
+C:\Projetos\ATP\função\funçao7\obj\Debug\net10.0\funçao7.genruntimeconfig.cache
+C:\Projetos\ATP\função\funçao7\obj\Debug\net10.0\ref\funçao7.dll

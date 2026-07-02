@@ -1,0 +1,14 @@
+C:\Projetos\ATP\função\funçao14\bin\Debug\net10.0\funçao14.exe
+C:\Projetos\ATP\função\funçao14\bin\Debug\net10.0\funçao14.deps.json
+C:\Projetos\ATP\função\funçao14\bin\Debug\net10.0\funçao14.runtimeconfig.json
+C:\Projetos\ATP\função\funçao14\bin\Debug\net10.0\funçao14.dll
+C:\Projetos\ATP\função\funçao14\bin\Debug\net10.0\funçao14.pdb
+C:\Projetos\ATP\função\funçao14\obj\Debug\net10.0\funçao14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\função\funçao14\obj\Debug\net10.0\funçao14.AssemblyInfoInputs.cache
+C:\Projetos\ATP\função\funçao14\obj\Debug\net10.0\funçao14.AssemblyInfo.cs
+C:\Projetos\ATP\função\funçao14\obj\Debug\net10.0\funçao14.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\função\funçao14\obj\Debug\net10.0\funçao14.dll
+C:\Projetos\ATP\função\funçao14\obj\Debug\net10.0\refint\funçao14.dll
+C:\Projetos\ATP\função\funçao14\obj\Debug\net10.0\funçao14.pdb
+C:\Projetos\ATP\função\funçao14\obj\Debug\net10.0\funçao14.genruntimeconfig.cache
+C:\Projetos\ATP\função\funçao14\obj\Debug\net10.0\ref\funçao14.dll

@@ -1,0 +1,4 @@
+C:\Projetos\ATP\função\funçao4\obj\Debug\net10.0\funçao4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\função\funçao4\obj\Debug\net10.0\funçao4.AssemblyInfoInputs.cache
+C:\Projetos\ATP\função\funçao4\obj\Debug\net10.0\funçao4.AssemblyInfo.cs
+C:\Projetos\ATP\função\funçao4\obj\Debug\net10.0\funçao4.csproj.CoreCompileInputs.cache

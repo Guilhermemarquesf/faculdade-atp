@@ -1,0 +1,14 @@
+C:\Projetos\ATP\função\trabalhoPratico\bin\Debug\net10.0\trabalhoPratico.exe
+C:\Projetos\ATP\função\trabalhoPratico\bin\Debug\net10.0\trabalhoPratico.deps.json
+C:\Projetos\ATP\função\trabalhoPratico\bin\Debug\net10.0\trabalhoPratico.runtimeconfig.json
+C:\Projetos\ATP\função\trabalhoPratico\bin\Debug\net10.0\trabalhoPratico.dll
+C:\Projetos\ATP\função\trabalhoPratico\bin\Debug\net10.0\trabalhoPratico.pdb
+C:\Projetos\ATP\função\trabalhoPratico\obj\Debug\net10.0\trabalhoPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\função\trabalhoPratico\obj\Debug\net10.0\trabalhoPratico.AssemblyInfoInputs.cache
+C:\Projetos\ATP\função\trabalhoPratico\obj\Debug\net10.0\trabalhoPratico.AssemblyInfo.cs
+C:\Projetos\ATP\função\trabalhoPratico\obj\Debug\net10.0\trabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\função\trabalhoPratico\obj\Debug\net10.0\trabalhoPratico.dll
+C:\Projetos\ATP\função\trabalhoPratico\obj\Debug\net10.0\refint\trabalhoPratico.dll
+C:\Projetos\ATP\função\trabalhoPratico\obj\Debug\net10.0\trabalhoPratico.pdb
+C:\Projetos\ATP\função\trabalhoPratico\obj\Debug\net10.0\trabalhoPratico.genruntimeconfig.cache
+C:\Projetos\ATP\função\trabalhoPratico\obj\Debug\net10.0\ref\trabalhoPratico.dll

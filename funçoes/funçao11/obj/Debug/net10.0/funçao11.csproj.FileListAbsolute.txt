@@ -1,0 +1,14 @@
+C:\Projetos\ATP\função\funçao11\obj\Debug\net10.0\funçao11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ATP\função\funçao11\obj\Debug\net10.0\funçao11.AssemblyInfoInputs.cache
+C:\Projetos\ATP\função\funçao11\obj\Debug\net10.0\funçao11.AssemblyInfo.cs
+C:\Projetos\ATP\função\funçao11\obj\Debug\net10.0\funçao11.csproj.CoreCompileInputs.cache
+C:\Projetos\ATP\função\funçao11\bin\Debug\net10.0\funçao11.exe
+C:\Projetos\ATP\função\funçao11\bin\Debug\net10.0\funçao11.deps.json
+C:\Projetos\ATP\função\funçao11\bin\Debug\net10.0\funçao11.runtimeconfig.json
+C:\Projetos\ATP\função\funçao11\bin\Debug\net10.0\funçao11.dll
+C:\Projetos\ATP\função\funçao11\bin\Debug\net10.0\funçao11.pdb
+C:\Projetos\ATP\função\funçao11\obj\Debug\net10.0\funçao11.dll
+C:\Projetos\ATP\função\funçao11\obj\Debug\net10.0\refint\funçao11.dll
+C:\Projetos\ATP\função\funçao11\obj\Debug\net10.0\funçao11.pdb
+C:\Projetos\ATP\função\funçao11\obj\Debug\net10.0\funçao11.genruntimeconfig.cache
+C:\Projetos\ATP\função\funçao11\obj\Debug\net10.0\ref\funçao11.dll
